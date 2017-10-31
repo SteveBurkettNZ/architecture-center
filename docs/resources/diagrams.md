@@ -10,7 +10,7 @@ These resources include icons, Viso templates, PNG files, and SVG files that are
 ## Microsoft Azure, Cloud and Enterprise Symbol/Icon Set
 
 The symbol/icon set is a collection of Visio, PowerPoint, PNG, and SVG assets that you can use to produce custom technical content.
-[View the training video](http://aka.ms/CnESymbolsVideo) and [download sybmo/icon set](http://aka.ms/CnESymbols). 
+[View the training video](http://aka.ms/CnESymbolsVideo) and [download symbol/icon set](http://aka.ms/CnESymbols). 
 
 ![Cloud and Enterprise Symbol/Icon set](./_images/CnESymbols.png)
 
